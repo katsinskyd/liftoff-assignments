@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+An application for individuals who are supporting those with neurodiversity. Will use guided prompts with techniques for deescalation. Neurodiverse individuals will be able to input their own personal preferences and techniques they know work for them.
 ### Features
-Include Features here
+1. User log in - Users will create accounts, log in, and have a profile.
+2. Buddies - Linking profiles and adding members to your specific buddy group
+3. Lists - User led input for "trigger" and deescalation techniques
+4. Log - Occurrence log for events/data tracking
 ### Technologies
-Include Technologies here
+Javascript  
+Angular  
+Java  
+Spring Boot  
+MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+Build an API between Java and Javascript  
+User verification
 ### Project Tracker
-Link to your Trello board here
+[Group Trello](https://trello.com/b/WO4WuwoY/liftoff-captsone)
